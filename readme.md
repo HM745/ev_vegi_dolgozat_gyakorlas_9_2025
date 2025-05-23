@@ -4,7 +4,7 @@
 
 1. Egészítsd ki a az oldalt a hiányzó meta tagekkel!
 2. A böngésző címsorába a saját neved kerüljön.
-3. A .szoveg elnevezésű divekbe kerüljön bele a mintán látható felsorolás  és a kép!
+3. A .szoveg elnevezésű divekbe kerüljön belxe a mintán látható felsorolás  és a kép!
 4. A láblécbe  a saját neved kerüljön. 
 5. Csatolj stíluslapot az index.html-hez
 6. Készíts másolatot az index.html-ről (kétszer) és nevezd át úgy, hogy a navigáció működjön! Ehhez a navigáció linkjeit is módosítanod kell!
